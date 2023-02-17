@@ -11,10 +11,10 @@ I will introduce the easiest way to deploy machine learning applications on the 
 
 ## step 1 : 
 
-pip install -r /path/to/requirements.txt
+    pip install -r /path/to/requirements.txt
 
 ## step 2 :
 
-# Build the best machine learning model and Save it
+ # Build the best machine learning model and Save it
 
-streamlit run main.py
+    streamlit run main.py
