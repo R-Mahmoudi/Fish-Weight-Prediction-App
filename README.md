@@ -15,6 +15,6 @@ I will introduce the easiest way to deploy machine learning applications on the 
 
 ## step 2 :
 
- # Build the best machine learning model and Save it
+ # Run Program 
 
     streamlit run main.py
